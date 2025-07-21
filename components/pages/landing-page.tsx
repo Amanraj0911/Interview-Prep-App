@@ -126,7 +126,7 @@ export function LandingPage() {
       content:
         "Interview Prep transformed my preparation process. The AI-generated questions were spot-on and helped me land my dream job at Google!",
       rating: 5,
-      image: "/avanish_gurjar.jpg",
+      image: "/avanish_gurjar.JPG",
       fallbackImage: "/placeholder.svg?height=64&width=64&text=AG",
     },
     {
