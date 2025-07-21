@@ -14,6 +14,11 @@ A smart web application that uses AI to generate interview questions based on us
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Click here to try the app](https://your-live-url.com)
+
+
 ## 🛠️ Tech Stack
 
 | Frontend | Backend | AI/ML | Other |
@@ -29,3 +34,13 @@ git clone https://github.com/Amanraj0911/Interview-Prep-App.git
 cd Interview-Prep-App
 npm install
 npm run dev
+```
+
+🔑 Environment Variables
+Create a .env.local file and include:
+
+```bash
+GEMINI_API_KEY=your_key_here
+MONGO_URI=your_mongodb_connection
+JWT_SECRET=your_jwt_secret
+
