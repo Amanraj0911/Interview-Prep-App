@@ -16,7 +16,7 @@ A smart web application that uses AI to generate interview questions based on us
 
 ## 🔗 Live Demo
 
-👉 [Click here to try the app](https://your-live-url.com)
+👉 [Click here to try the app](https://interview-prep-app-phi.vercel.app/)
 
 
 ## 🛠️ Tech Stack
