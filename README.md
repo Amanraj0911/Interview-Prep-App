@@ -44,3 +44,10 @@ GEMINI_API_KEY=your_key_here
 MONGO_URI=your_mongodb_connection
 JWT_SECRET=your_jwt_secret
 
+```
+## 👥 Contributors
+
+- [Aman Raj](https://github.com/Amanraj0911)
+- [Anand Raj](https://github.com/anandraj10)
+
+
